@@ -126,7 +126,7 @@ NAME
 
 SYNOPSIS
         tweetfile.pl [--quiet] [--dry-run] [--first]
-            --conf=CONF --tweets=TWEETFILE
+            --conf CONF --tweets TWEETFILE
         tweetfile.pl --help
 
 DESCRIPTION
